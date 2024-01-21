@@ -1,0 +1,17 @@
+supplierid;companyname;contactname;contacttitle;address;city;region;postalcode;country;phone;fax		
+1;Supplier SWRXU;Adolphi	 Stephan;Purchasing Manager;2345 Gilbert St.;London;NULL;10023;UK;(171) 456-7890;NULL	
+2;Supplier VHQZD;Hance	 Jim;Order Administrator;P.O. Box 5678;New Orleans;LA;10013;USA;(100) 555-0111;NULL	
+3;Supplier STUAZ;Parovszky	 Alfons;Sales Representative;1234 Oxford Rd.;Ann Arbor;MI;10026;USA;(313) 555-0109;(313) 555-0112	
+4;Supplier QOVFD;Balázs	 Erzsébet;Marketing Manager;7890 Sekimai Musashino-shi;Tokyo;NULL;10011;Japan;(03) 6789-0123;NULL	
+5;Supplier EQPNC;Holm	 Michael;Export Administrator;Calle del Rosal 4567;Oviedo;Asturias;10029;Spain;(98) 123 45 67;NULL	
+6;Supplier QWUSF;Popkova	 Darya;Marketing Representative;8901 Setsuko Chuo-ku;Osaka;NULL;10028;Japan;(06) 789-0123;NULL	
+7;Supplier GQRCV;Ræbild	 Jesper;Marketing Manager;5678 Rose St. Moonie Ponds;Melbourne;Victoria;10018;Australia;(03) 123-4567;(03) 456-7890	
+8;Supplier BWGYE;Iallo	 Lucio;Sales Representative;9012 King's Way;Manchester;NULL;10021;UK;(161) 567-8901;NULL	
+9;Supplier QQYEU;Basalik	 Evan;Sales Agent;Kaloadagatan 4567;Göteborg;NULL;10022;Sweden;031-345 67 89;031-678 90 12	
+10;Supplier UNAHG;Barnett	 Dave;Marketing Manager;Av. das Americanas 2345;Sao Paulo;NULL;10034;Brazil;(11) 345 6789;NULL	
+11;Supplier ZPYVS;Jain	 Mukesh;Sales Manager;Tiergartenstraße 3456;Berlin;NULL;10016;Germany;(010) 3456789;NULL	
+12;Supplier SVIYA;Regev	 Barak;International Marketing Mgr.;Bogenallee 9012;Frankfurt;NULL;10024;Germany;(069) 234567;NULL	
+13;Supplier TEGSC;Brehm	 Peter;Coordinator Foreign Markets;Frahmredder 3456;Cuxhaven;NULL;10019;Germany;(04721) 1234;(04721) 2345	
+14;Supplier KEREV;Keil	 Kendall;Sales Representative;Viale Dante	 6789;Ravenna;NULL;10015;Italy;(0544) 56789;(0544) 34567
+15;supplier Global Manufacturing;Bob Johnson;COO;789 Elm Rd;Somecity;null;34567;UK;+44 20 1234 5678;+44 20 1234 5679		
+16;Sypplier ABC Manufacturing;John Doe;CEO;123 Main St;Anytown;null;12345;USA;+1 555-123-4567;+1 555-789-0123		

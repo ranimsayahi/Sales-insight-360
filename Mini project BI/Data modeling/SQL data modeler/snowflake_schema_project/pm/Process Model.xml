@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="F4A542F0-3CD0-4DE4-C3C0-3CB349E48CD0">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-19 23:00:32 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

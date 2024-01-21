@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="5E8EF585-CAEF-7AF4-F3E3-FF980C34C816" containerWithKeyObject="3AE58EBB-96DF-601C-0D2C-A9043C663BAB" localFKIndex="CCBFDED6-8311-5457-1A1C-0A941987176C" name="Suppliers_Products_FK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>2E0D925C-586B-6E39-57BC-6D67EA2FCCE9</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<referredTableLongName>Products</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>7E4455C2-FAE0-E303-FBCB-74177E14EDDD</referredTableID>
+<keyObject>0380CEBF-1D46-ED2C-7A7F-3E0E5E8FA243</keyObject>
+<referredKeyID>0380CEBF-1D46-ED2C-7A7F-3E0E5E8FA243</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>categoryid</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

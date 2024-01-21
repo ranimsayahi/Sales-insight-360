@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="snowflake_schema_project" id="CDB3D558-2DE3-11ED-4DF7-DC0A49EF2BD0" version="3.5">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-19 23:00:32 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CDB3D558-2DE3-11ED-4DF7-DC0A49EF2BD0</designId>
+</OSDM_Design>

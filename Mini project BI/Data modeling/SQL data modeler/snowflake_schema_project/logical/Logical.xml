@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="46020630-C096-950B-9977-510476798F70" mainViewID="3ED73737-37A2-CD20-3D56-119B1B70F6AC">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-19 23:00:32 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

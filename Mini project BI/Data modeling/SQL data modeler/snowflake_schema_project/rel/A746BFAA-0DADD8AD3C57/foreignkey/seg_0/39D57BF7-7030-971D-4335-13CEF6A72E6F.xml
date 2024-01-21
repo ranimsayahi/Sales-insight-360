@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="39D57BF7-7030-971D-4335-13CEF6A72E6F" containerWithKeyObject="A00F9982-6FEB-A736-48E1-0EC1CB665EE1" localFKIndex="22AA98FA-FEA6-FD50-CEDA-A9CAF159DE35" name="Shippers_Sales_FK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>D53CA80B-E650-C023-9C04-87142C0F6BB4</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<referredTableLongName>Sales</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>25E0ED75-8388-43D8-22CD-B17A0674E780</referredTableID>
+<keyObject>0399FB6A-C00D-5430-DAB5-C6375F6476FB</keyObject>
+<referredKeyID>0399FB6A-C00D-5430-DAB5-C6375F6476FB</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>orderid</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

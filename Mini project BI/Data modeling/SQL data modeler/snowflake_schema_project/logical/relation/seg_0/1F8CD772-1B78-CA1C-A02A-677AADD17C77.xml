@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_4" directorySegmentName="seg_0" id="1F8CD772-1B78-CA1C-A02A-677AADD17C77">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:47:28 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<sourcePk>0CD083A3-B1FD-4EB1-E9ED-11D00405726D</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>641D2B11-E3F8-18C5-6308-AB97721E0283</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>C0E09E31-62DF-05E0-2B17-D746FC43334E</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

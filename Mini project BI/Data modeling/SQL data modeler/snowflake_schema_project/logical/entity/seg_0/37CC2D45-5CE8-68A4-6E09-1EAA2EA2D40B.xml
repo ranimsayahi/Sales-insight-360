@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="37CC2D45-5CE8-68A4-6E09-1EAA2EA2D40B" name="Shippers">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:28:36 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="shipperid" id="0DAE8BA7-F467-85D8-15B1-2BEE23A3D36E">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:28:46 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="companyname" id="7697293D-C071-0DFC-FA93-9E0050D2B463">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:28:50 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="phone" id="E3D247AE-7EDD-0CF4-F500-11CE4105D193">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:28:53 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="orderid" id="6287547D-AA8D-CED5-9E63-297810E1031A">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:47:12 UTC</createdTime>
+<generatorID>D53CA80B-E650-C023-9C04-87142C0F6BB4</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<referedAttribute>5B70452D-ACD1-1F57-B17D-367050C1C849</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="F7404001-FD16-9DBE-C86A-FE31CD4535BC" name="Key_1">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:29:48 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<engineerTo>
+<item key="A746BFAA-78A2-BC93-B4E6-0DADD8AD3C57" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<newElementsIDs>0DAE8BA7-F467-85D8-15B1-2BEE23A3D36E</newElementsIDs>
+<usedAttributes>
+<attributeRef>0DAE8BA7-F467-85D8-15B1-2BEE23A3D36E</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

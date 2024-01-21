@@ -1,0 +1,140 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7E4455C2-FAE0-E303-FBCB-74177E14EDDD" name="Products">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>C0E09E31-62DF-05E0-2B17-D746FC43334E</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="categoryid" id="7990D514-2935-CD3C-769A-EDAD50E9F3AA">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>307B0A97-B2F4-80A3-ED95-874DB0F02AEB</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="productid" id="0059BAF1-757F-1E90-63A9-FDEFC9A3EB07">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>0D908071-1D42-3100-C741-96E6D4998698</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="productname" id="4EF22D0E-4EA9-A4BD-257F-9D9BA9688475">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>A7B8262A-CF47-D64D-94CC-5D247246C80C</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="supplierid" id="2C8F10BE-62DC-BACB-34E7-A7414A584CC3">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>EE94739A-6005-20EC-8570-6A145E70F125</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="unitprice" id="E2A2C4D6-63F3-40F1-D1B8-EF235A66481A">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>FD7A984D-0194-22C8-0786-F308DC15506B</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="discontinued" id="CECE8791-D386-7EBE-7D5D-921D6FB792CC">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>30301E07-21A4-F8E9-AD75-8715C2D2094F</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="categoryname" id="8425C658-6889-E74D-A7B2-91686CCA9777">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>EBB54986-E826-88D9-9E19-4EE7AABB24AE</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="description" id="850BB60D-7AFE-4B44-D9EA-CBB190BAEE85">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>7B9E3C61-8B1A-886C-1417-D028610CE69B</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Sales_orderid" id="A5D518ED-4E21-E6F2-6E0E-601B3C3522C3">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>16027D3F-3861-C93B-1D42-D3232BC190E9</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="551B2C24-8B43-315E-59BA-298EBE67F116" referredColumn="73EF7DC2-9AFD-79D0-9361-A9A24A7FDF07"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0380CEBF-1D46-ED2C-7A7F-3E0E5E8FA243" name="Products_PK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>4A9A00D5-0512-8FBB-6D1D-4E30BAD5E0B8</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7990D514-2935-CD3C-769A-EDAD50E9F3AA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E87EA30D-8FA5-860F-DBB5-6CB0605A3BAA" name="Products_Sales_FK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>1F8CD772-1B78-CA1C-A02A-677AADD17C77</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A5D518ED-4E21-E6F2-6E0E-601B3C3522C3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

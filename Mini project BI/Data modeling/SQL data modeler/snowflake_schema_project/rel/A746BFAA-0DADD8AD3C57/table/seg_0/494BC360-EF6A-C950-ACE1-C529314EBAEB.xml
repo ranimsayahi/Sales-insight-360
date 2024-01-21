@@ -1,0 +1,206 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="494BC360-EF6A-C950-ACE1-C529314EBAEB" name="HR_employees">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>6922AFAA-FADE-444E-0C18-4B2974F002C7</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="empid" id="CE8AF5AB-BA30-99DA-443B-E1897DB2B562">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>16AAE60A-593B-E2AC-93B2-8D103502B4FA</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="lastname" id="1349FDF3-6D13-F6A2-9FDF-9D9AB5D01943">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>56F5325A-2331-E174-5910-A0365445A547</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="firstname" id="48A0FE9F-75FE-5619-48B1-CDD2AA0A5BD2">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>A6D51A19-8354-615D-3367-0464C4D84B4C</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="title" id="9957E922-2426-2A6C-EAD9-91A52999A1D3">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>A0CEE71E-A2E6-BB90-A4E3-258896DEFEB2</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="titleofcourtesy" id="24F8DFD1-26D3-94C7-B8C4-0A7B07574357">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>F3D978F6-7E32-B935-7CF8-E58FDF998291</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="birthdate" id="6C93B825-6EC3-F5EC-95D2-9704779C8294">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>8CDF5BDF-F31B-A51C-34DC-B70CCA926E01</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hiredate" id="F76CB0D5-F6CD-0960-1D1D-101EC92960AB">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>72A507B2-48AE-FAD5-902D-80CF627E1D20</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="address" id="CE23F906-5018-6B8B-D498-E28A3D433A18">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>1889E554-21BA-621B-62DB-19570457F06C</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="city" id="5DC7A235-8D09-C495-8CD6-952F06331F3B">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>FC5D3AEA-A971-886B-C461-E78D730842FD</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="region" id="D86E179C-2D46-D5C9-842B-41F9E80C5ABD">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>F4B6B7E0-F2A2-F432-3D5D-535FAB7603A3</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="postalcode" id="59692B36-44CD-DA1D-F85B-491DA4350D49">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>1F04B47F-D775-C018-C1F5-5C9660B3DB98</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="country" id="55CE1254-179F-3D26-632A-0C82AC567896">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>2371E8D8-78E0-C7AA-5BFF-7FABA9770BEC</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="phone" id="748BD14A-8A6A-C2AD-09C6-D20A0A7542ED">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>58778FF2-7BC5-6989-1346-792CED5B6E88</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="mgrid" id="31A45609-5C0C-5E55-9354-F8AEEC734D90">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>7F4B661F-3B30-61D1-4539-616E6CA6A1E6</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Sales_orderid" id="E17AA23C-ABE4-249F-596F-B8B4A3D71FBD">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>2034C60E-058F-E3AE-A111-428873CFA158</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F8ABF313-C86A-402E-BB3B-EE0F3412B5B4" referredColumn="73EF7DC2-9AFD-79D0-9361-A9A24A7FDF07"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="4C76FA3E-0DD6-8473-24A8-EFF4A8D2D407" name="HR_employees_PK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>98E92673-CB06-DAE9-01D0-AA860E6762BA</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CE8AF5AB-BA30-99DA-443B-E1897DB2B562"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="968C855D-D4C2-E133-6767-AC1A08335C24" name="HR_employees_Sales_FK">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-20 12:48:18 UTC</createdTime>
+<generatorID>37BEC7E8-BF6C-951B-F0F3-CF32051EB539</generatorID>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E17AA23C-ABE4-249F-596F-B8B4A3D71FBD"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

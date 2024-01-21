@@ -1,0 +1,20 @@
+empid;lastname;firstname;title;titleofcourtesy;birthdate;hiredate;address;city;region;postalcode;country;phone;mgrid,
+1;Davis;Sara;CEO;Ms.;1958-12-08 00:00:00.000;2002-05-01 00:00:00.000;7890 - 20th Ave. E., Apt. 2A;Seattle;WA;10003;USA;(206) 555-0101;
+2;Funk;Don;Vice President, Sales;Dr.;1962-02-19 00:00:00.000;2002-08-14 00:00:00.000;9012 W. Capital Way;Tacoma;WA;10001;USA;(206) 555-0100;1
+3;Lew;Judy;Sales Manager;Ms.;1973-08-30 00:00:00.000;2002-04-01 00:00:00.000;2345 Moss Bay Blvd.;Kirkland;WA;10007;USA;(206) 555-0103;2,
+4;Peled;Yael;Sales Representative;Mrs.;1947-09-19 00:00:00.000;2003-05-03 00:00:00.000;5678 Old Redmond Rd.;Redmond;WA;10009;USA;(206) 555-0104;3,
+5;Buck;Sven;Sales Manager;Mr.;1965-03-04 00:00:00.000;2003-10-17 00:00:00.000;8901 Garrett Hill;London;;10004;UK;(71) 234-5678;2,
+6;Suurs;Paul;Sales Representative;Mr.;1973-07-02 00:00:00.000;2003-10-17 00:00:00.000;3456 Coventry House, Miner Rd.;London;;10005;UK;(71) 345-6789;5
+7;King;Russell;Sales Representative;Mr.;1970-05-29 00:00:00.000;2004-01-02 00:00:00.000;6789 Edgeham Hollow, Winchester Way;London;;10002;UK;(71) 123-4567;5
+8;Cameron;Maria;Sales Representative;Ms.;1968-01-09 00:00:00.000;2004-03-05 00:00:00.000;4567 - 11th Ave. N.E.;Seattle;WA;10006;USA;(206) 555-0102;3,
+9;Dolgopyatova;Zoya;Sales Representative;Ms.;1976-01-27 00:00:00.000;2004-01-14 00:00:00.000;1234 Houndstooth Rd.;London;;10008;UK;(71) 456-7890;5,
+10;benett;bonnie;manager;Ms.;1980-01-27 00:00:00.000;2010-06-15 00:00:00.000;12 Deep Forest.;London;;10008;UK;(71) 485-7890;5,
+11;norris;gennie;manger;Ms.;1999-12-15 00:00:00.000;2007-12-01 00:00:00.000;7890 - 20th, Apt. 33A;Seattle;WA;10003;USA;(206) 555-9999;
+12;volkov;alex;manager;Dr.;1984-01-08 00:00:00.000;2001-12-14 00:00:00.000;9 W. Capital Way;Tacoma;WA;10001;USA;(206) 000-0100;1,
+13;beer;lucy;Sales Manager;Ms.;1992-12-20 00:00:00.000;2012-04-01 00:00:00.000;7012 Moss Bay .;Kirkland;WA;10030;USA;(206) 555-0170;2,
+14;ziegler;maddie;Sales Representative;Mrs.;1977-07-19 00:00:00.000;2014-05-03 00:00:00.000;6745 Old Town.;Redmond;WA;10079;USA;(206) 555-7645;8,
+15;leclerc;max;Sales Manager;Mr.;1975-10-04 00:00:00.000;2003-10-24 00:00:00.000;8901 Gardens.;London;;10094;UK;(71) 204-5678;6,
+16;riccardo;Paul;Sales Representative;Mr.;1973-05-20 00:00:00.000;2006-10-17 00:00:00.000;4000 Coventry House, Miner Rd.;London;;10005;UK;(71) 855-6789;1
+17;russel;george;Sales Representative;Mr.;1970-09-29 00:00:00.000;2004-12-02 00:00:00.000;6789 Edgeham Holloween,  Way;London;;10002;UK;(71) 123-4967;4
+18;Cameron;ammanda;Sales Representative;Ms.;1968-12-31 00:00:00.000;2014-03-25 00:00:00.000;4217 - 11th Ave.;Seattle;WA;11006;USA;(206) 590-0102;8,
+19;castellano;hailey;Sales Representative;Ms.;1976-10-30 00:00:00.000;2004-05-15 00:00:00.000;1234 LAKE.;London;;19008;UK;(71) 456-7569;2,

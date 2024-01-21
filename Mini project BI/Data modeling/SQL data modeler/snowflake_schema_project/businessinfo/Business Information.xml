@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="03003768-8654-B386-8240-F7B69C6898F6">
+<createdBy>Ranim</createdBy>
+<createdTime>2024-01-19 23:00:32 UTC</createdTime>
+<ownerDesignName>snowflake_schema_project</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>
